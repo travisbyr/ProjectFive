@@ -9,6 +9,7 @@ const questionEl = document.getElementById('question');
 const answerEl = document.getElementById('answer');
 const addQuestionBtn = document.getElementById('add-question');
 const clearBtn = document.getElementById('clear');
+
 const addContainer = document.getElementById('add-container');
 
 // Keep track of current card
